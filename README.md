@@ -1,2 +1,4 @@
-# ADS
-Algorithms of Data Science
+# Machine Learning
+
+Supervised Machine Learning
+Unsupervised Machine Learning
